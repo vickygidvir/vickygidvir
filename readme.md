@@ -48,5 +48,7 @@
 ## 📊 Github Stats
 
 
-![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickygidvir&theme=discord_old_blurple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vickygidvir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=discord_old_blurple) 
+![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickygidvir&theme=discord_old_blurple)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vickygidvir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=discord_old_blurple) 
 
