@@ -43,6 +43,10 @@
   </kbd>
 </p>
 
+
+
 ## 📊 Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vickygidvir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=discord_old_blurple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickygidvir&layout=compact&theme=discord_old_blurple&custom_title=Statistics)  
+
+
+![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vickygidvir&theme=discord_old_blurple) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vickygidvir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=discord_old_blurple) 
+
