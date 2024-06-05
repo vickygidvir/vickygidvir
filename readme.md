@@ -57,3 +57,7 @@ I am excited about the dynamic possibilities, I am eager to learn, explore more,
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vickygidvir&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=discord_old_blurple) 
 
+## 🎮 LeetCode Stats - In Progress
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vickygidvir&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
