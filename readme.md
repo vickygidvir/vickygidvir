@@ -11,7 +11,7 @@ I am excited about the dynamic possibilities, I am eager to learn, explore more,
 ⚡️ Know more about me : <a href="https://vickygidvir.github.io/">www.vickygidvir.com</a>
 
 ## 👨‍💻 What i do:
-- 🔭 I'm working as Senior Software Engineer @ **Cleverex Technology** 💻
+- 🔭 I'm working as Frontend Developer @ **Siemens Engery, Pune** 💻
 
 - 🌱 Currently exploring & learning Frontend technologies & tools like **TypeScript & Next.js 📌**
 
