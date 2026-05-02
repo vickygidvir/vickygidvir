@@ -5,7 +5,7 @@
 
 
 ## 😇 About Me:
-<p>I am a dedicated and passionate software developer with over 4.5+ years of hands-on experience, specializing in web and mobile technologies and frameworks. Since 2020, I have been involved in crafting dynamic projects using various technologies. 
+<p>I am a dedicated and passionate software developer with over 6.5+ years of hands-on experience, specializing in web and mobile technologies and frameworks. Since 2020, I have been involved in crafting dynamic projects using various technologies. 
 I am excited about the dynamic possibilities, I am eager to learn, explore more, and apply my expertise in crafting innovative solutions for future development projects while driving continuous improvement.</p>
 
 ⚡️ Know more about me : <a href="https://vickygidvir.github.io/">www.vickygidvir.com</a>
